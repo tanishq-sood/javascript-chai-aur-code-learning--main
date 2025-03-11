@@ -2,7 +2,7 @@
 
 //alert(3 + 3) // ye nahi chalega kyuki hum node.js use kar rahe hai and not browser 
 
-console.log(3 +3);  
+console.log("the number is - "+  (3 + 3));  
 
 /*
 ab kuch data types discuss karenge 
